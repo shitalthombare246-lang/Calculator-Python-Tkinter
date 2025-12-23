@@ -22,3 +22,8 @@ multiplication, and division.
 
 ## Author
 Shital Thombare
+
+
+## Screenshot
+![Calculator Screenshot](Calculator.jpeg)
+
